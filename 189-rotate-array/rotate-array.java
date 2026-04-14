@@ -10,7 +10,7 @@ class Solution {
     }
     public void rotate(int[] nums, int k) {
         int n=nums.length;
-        k=k%n;
+        k=k%n;//that's denote how many number rotate[ex-3%7=3]
         reverse(nums,0,n-1);//rotate entire array
         reverse(nums,0,k-1);//rotate first k element
         reverse(nums,k,n-1);//rotate remaining element
