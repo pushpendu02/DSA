@@ -4,17 +4,16 @@ class Solution {
        int high=nums.length-1;
        while(low<=high)
        {
-        int mid=low+(high-low)/2;
-        if(target==nums[mid]){
+        int mid=(low+high)/2;
+        if(nums[mid]==target){
             return mid;
-        }
-        else if(target>nums[mid]){
-            low=mid+1;
-        }else{
+        }else if(target<nums[mid]){
             high=mid-1;
+        }else{
+            low=mid+1;
         }
 
-       } 
-       return low;//that indicate the index value if the target element not present
+       }
+       return low;
     }
 }
