@@ -14,6 +14,6 @@ class Solution {
         }
 
        }
-       return low;
+       return low;//this is the index which denote the expected index
     }
 }
