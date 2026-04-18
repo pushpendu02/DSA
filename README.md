@@ -8,6 +8,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+| [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
