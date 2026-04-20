@@ -17,6 +17,7 @@ Solve Leet-Code Problem
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 ## Greedy
 |  |
@@ -34,9 +35,14 @@ Solve Leet-Code Problem
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
