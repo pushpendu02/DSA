@@ -20,6 +20,7 @@ Solve Leet-Code Problem
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,12 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
