@@ -20,6 +20,7 @@ Solve Leet-Code Problem
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +62,8 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
