@@ -7,7 +7,7 @@ class Solution {
             s[low]=s[high];
             s[high]=temp;
             low++;
-            high--;//this is my approach
+            high--;
         }
     }
 }
