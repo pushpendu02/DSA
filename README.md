@@ -40,6 +40,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/pushpendu02/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/pushpendu02/DSA/tree/master/0344-reverse-string) |
@@ -68,4 +69,8 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pushpendu02/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
