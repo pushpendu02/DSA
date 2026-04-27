@@ -25,5 +25,5 @@ class Solution {
         }
       }
       return head;
-    }//hello i want to grow my contribution
+    }
 }
