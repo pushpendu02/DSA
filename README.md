@@ -73,4 +73,12 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pushpendu02/DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
