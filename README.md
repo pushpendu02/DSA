@@ -17,6 +17,7 @@ Solve Leet-Code Problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpendu02/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
@@ -76,9 +77,11 @@ Solve Leet-Code Problem
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpendu02/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpendu02/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
