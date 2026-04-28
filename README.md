@@ -6,6 +6,7 @@ Solve Leet-Code Problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ Solve Leet-Code Problem
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
