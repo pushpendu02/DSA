@@ -17,7 +17,7 @@ class Solution {
         return list1;
      }else{
         list2.next=mergeTwoLists(list1,list2.next);
-        return list2;
+        return list2;//why there are shown no contribution
      }   
     }
 }
