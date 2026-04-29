@@ -80,10 +80,12 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpendu02/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/pushpendu02/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpendu02/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/pushpendu02/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
