@@ -10,6 +10,7 @@ Solve Leet-Code Problem
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -25,6 +26,7 @@ Solve Leet-Code Problem
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +36,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pushpendu02/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
