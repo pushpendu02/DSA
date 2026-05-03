@@ -11,6 +11,7 @@ Solve Leet-Code Problem
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -37,6 +38,7 @@ Solve Leet-Code Problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pushpendu02/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
