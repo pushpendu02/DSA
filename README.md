@@ -10,6 +10,7 @@ Solve Leet-Code Problem
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
@@ -66,6 +67,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
