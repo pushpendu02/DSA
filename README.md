@@ -11,6 +11,7 @@ Solve Leet-Code Problem
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
@@ -20,6 +21,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
 ## Math
 |  |
 | ------- |
