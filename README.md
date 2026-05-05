@@ -14,6 +14,7 @@ Solve Leet-Code Problem
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
+| [0485-max-consecutive-ones](https://github.com/pushpendu02/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
