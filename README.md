@@ -9,6 +9,7 @@ Solve Leet-Code Problem
 | [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
@@ -40,6 +41,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
@@ -47,6 +49,7 @@ Solve Leet-Code Problem
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
