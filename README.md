@@ -7,6 +7,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
@@ -21,6 +22,7 @@ Solve Leet-Code Problem
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
 ## Math
@@ -107,4 +109,8 @@ Solve Leet-Code Problem
 | [0021-merge-two-sorted-lists](https://github.com/pushpendu02/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pushpendu02/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
