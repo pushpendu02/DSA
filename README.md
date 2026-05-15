@@ -20,6 +20,7 @@ Solve Leet-Code Problem
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/pushpendu02/DSA/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
+| [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpendu02/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -124,4 +127,8 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pushpendu02/DSA/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
