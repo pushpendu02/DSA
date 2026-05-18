@@ -1,11 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        //  if(s.isEmpty()){
-        //     return true;
-        //  }
-        if(s.length()==0){
+         if(s.isEmpty()){
             return true;
-        }
+         }
+        
          int low=0;
          int high=s.length()-1;
          while(low<high){
