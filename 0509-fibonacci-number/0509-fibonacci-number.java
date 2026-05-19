@@ -8,8 +8,8 @@ class Solution {
         if(n<=1){
             return n;
         }
-        int sum=fib(n-1)+fib(n-2);
-        return sum;
-
+        // int sum=fib(n-1)+fib(n-2);
+        // return sum;
+        return fib(n-1)+fib(n-2);
     }
 }
