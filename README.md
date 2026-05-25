@@ -16,6 +16,7 @@ Solve Leet-Code Problem
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
@@ -67,6 +68,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -90,6 +92,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +136,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -140,6 +144,7 @@ Solve Leet-Code Problem
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
