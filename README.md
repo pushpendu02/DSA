@@ -22,6 +22,7 @@ Solve Leet-Code Problem
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/pushpendu02/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -30,6 +31,7 @@ Solve Leet-Code Problem
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
