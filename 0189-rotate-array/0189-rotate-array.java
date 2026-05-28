@@ -14,5 +14,6 @@ class Solution {
         reverse(nums,0,n-1);//rotate entire array
         reverse(nums,0,k-1);//rotate first k element
         reverse(nums,k,n-1);//rotate remaining element
+        
     }
 }
