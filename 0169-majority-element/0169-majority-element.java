@@ -12,7 +12,7 @@ class Solution {
         //     }
         // }
         // return major;
-        int freq=0;int ans=0;
+        int freq=0, ans=0;
         for(int i=0;i<nums.length;i++){//Moore's voting algo
             if(freq==0){
                 ans=nums[i];
