@@ -9,5 +9,6 @@ class Solution {
         }
         // If no valid pair is found, return an empty array instead of null
         return new int[] {};
+        
     }
 }
