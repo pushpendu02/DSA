@@ -1,7 +1,7 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
       HashSet<Integer>set=new HashSet<>();
-      int a=-1;int b=-1;
+      int a=-1, b=-1;
       int actsum=0;
       int n=grid.length;
       int expsum=(n*n)*(n*n +1)/2;
