@@ -19,6 +19,7 @@ Solve Leet-Code Problem
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/pushpendu02/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
@@ -32,6 +33,7 @@ Solve Leet-Code Problem
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
@@ -66,6 +68,7 @@ Solve Leet-Code Problem
 | [0125-valid-palindrome](https://github.com/pushpendu02/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pushpendu02/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -104,6 +107,7 @@ Solve Leet-Code Problem
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
