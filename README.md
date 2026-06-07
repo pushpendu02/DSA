@@ -28,6 +28,7 @@ Solve Leet-Code Problem
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Solve Leet-Code Problem
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Solve Leet-Code Problem
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
