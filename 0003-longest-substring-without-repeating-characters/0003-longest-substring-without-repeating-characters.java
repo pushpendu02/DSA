@@ -11,6 +11,6 @@ class Solution {
         set.add(s.charAt(right));
         maxLength=Math.max(maxLength,right-left+1);
        }
-       return maxLength; 
+       return maxLength;
     }
 }
