@@ -13,7 +13,7 @@ class Solution {
             stack.push(cur);
         }
  
-        return stack.isEmpty();        
+        return stack.isEmpty();       
     }
 
     private boolean isPair(char last, char cur) {
