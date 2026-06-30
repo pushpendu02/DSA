@@ -47,6 +47,7 @@ Solve Leet-Code Problem
 | [0007-reverse-integer](https://github.com/pushpendu02/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pushpendu02/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/pushpendu02/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
@@ -91,6 +92,7 @@ Solve Leet-Code Problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpendu02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/pushpendu02/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pushpendu02/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pushpendu02/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -108,6 +110,7 @@ Solve Leet-Code Problem
 | [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpendu02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
