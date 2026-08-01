@@ -84,6 +84,7 @@ Solve Leet-Code Problem
 | [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -98,6 +99,7 @@ Solve Leet-Code Problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pushpendu02/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pushpendu02/DSA/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpendu02/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -112,6 +114,7 @@ Solve Leet-Code Problem
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
