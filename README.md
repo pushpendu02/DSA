@@ -21,6 +21,7 @@ Solve Leet-Code Problem
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushpendu02/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
@@ -37,6 +38,7 @@ Solve Leet-Code Problem
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/pushpendu02/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -54,6 +56,7 @@ Solve Leet-Code Problem
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/pushpendu02/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpendu02/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -85,6 +88,7 @@ Solve Leet-Code Problem
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -115,6 +119,7 @@ Solve Leet-Code Problem
 | [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -123,6 +128,7 @@ Solve Leet-Code Problem
 | [0029-divide-two-integers](https://github.com/pushpendu02/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
