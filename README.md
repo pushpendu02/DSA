@@ -8,6 +8,7 @@ Solve Leet-Code Problem
 | ------- |
 | [0001-two-sum](https://github.com/pushpendu02/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpendu02/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/pushpendu02/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pushpendu02/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pushpendu02/DSA/tree/master/0027-remove-element) |
@@ -67,6 +68,7 @@ Solve Leet-Code Problem
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pushpendu02/DSA/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -74,6 +76,7 @@ Solve Leet-Code Problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pushpendu02/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pushpendu02/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushpendu02/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
