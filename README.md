@@ -19,6 +19,7 @@ Solve Leet-Code Problem
 | [0053-maximum-subarray](https://github.com/pushpendu02/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pushpendu02/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpendu02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pushpendu02/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpendu02/DSA/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@ Solve Leet-Code Problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpendu02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pushpendu02/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pushpendu02/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
@@ -214,6 +216,7 @@ Solve Leet-Code Problem
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpendu02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
