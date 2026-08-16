@@ -35,6 +35,7 @@ Solve Leet-Code Problem
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/pushpendu02/DSA/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/pushpendu02/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/pushpendu02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +141,7 @@ Solve Leet-Code Problem
 | [0169-majority-element](https://github.com/pushpendu02/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpendu02/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/pushpendu02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pushpendu02/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@ Solve Leet-Code Problem
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pushpendu02/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/pushpendu02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
