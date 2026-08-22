@@ -72,6 +72,7 @@ Solve Leet-Code Problem
 | [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/pushpendu02/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpendu02/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2652-sum-multiples](https://github.com/pushpendu02/DSA/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
