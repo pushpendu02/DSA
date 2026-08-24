@@ -9,10 +9,7 @@ class Solution {
         }
             reverse=reverse*10+remainder;
             x=x/10;
-        }
-        
-            
-            return reverse;
-        
+        }           
+            return reverse;        
     }
 }
