@@ -39,6 +39,7 @@ Solve Leet-Code Problem
 | [0560-subarray-sum-equals-k](https://github.com/pushpendu02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/pushpendu02/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/pushpendu02/DSA/tree/master/0896-monotonic-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
