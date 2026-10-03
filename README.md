@@ -19,6 +19,7 @@ Solve Leet-Code Problem
 | [0035-search-insert-position](https://github.com/pushpendu02/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pushpendu02/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpendu02/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pushpendu02/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pushpendu02/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pushpendu02/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -181,6 +182,7 @@ Solve Leet-Code Problem
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pushpendu02/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/pushpendu02/DSA/tree/master/0867-transpose-matrix) |
 ## Stack
@@ -234,6 +236,7 @@ Solve Leet-Code Problem
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pushpendu02/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpendu02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/pushpendu02/DSA/tree/master/0867-transpose-matrix) |
