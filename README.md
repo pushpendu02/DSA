@@ -43,6 +43,7 @@ Solve Leet-Code Problem
 | [0704-binary-search](https://github.com/pushpendu02/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/pushpendu02/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/pushpendu02/DSA/tree/master/0896-monotonic-array) |
+| [1572-matrix-diagonal-sum](https://github.com/pushpendu02/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushpendu02/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pushpendu02/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -240,6 +241,7 @@ Solve Leet-Code Problem
 | [0073-set-matrix-zeroes](https://github.com/pushpendu02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpendu02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/pushpendu02/DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pushpendu02/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpendu02/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
