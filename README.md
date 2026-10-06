@@ -75,6 +75,7 @@ Solve Leet-Code Problem
 | [0069-sqrtx](https://github.com/pushpendu02/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pushpendu02/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pushpendu02/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/pushpendu02/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/pushpendu02/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pushpendu02/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -164,6 +165,7 @@ Solve Leet-Code Problem
 | [0067-add-binary](https://github.com/pushpendu02/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pushpendu02/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pushpendu02/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/pushpendu02/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pushpendu02/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pushpendu02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/pushpendu02/DSA/tree/master/0461-hamming-distance) |
@@ -209,6 +211,7 @@ Solve Leet-Code Problem
 | [0024-swap-nodes-in-pairs](https://github.com/pushpendu02/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/pushpendu02/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/pushpendu02/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/pushpendu02/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/pushpendu02/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
